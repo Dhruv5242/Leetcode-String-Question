@@ -19,3 +19,9 @@ Utils: Any utility functions or helper scripts that I've used across multiple so
 Browse the repository to find the problem you're interested in.
 Open the corresponding solution file to view the code.
 Feel free to run the code on your local machine or on LeetCode's platform to test its correctness.
+
+# List of Problems
+
+   <pre> Problem                                                      Link <pre>
+1. Valid Palindrome                                                   https://leetcode.com/problems/longest-palindrome/description/
+2. Length of Last Word                                                https://leetcode.com/problems/length-of-last-word/description/
